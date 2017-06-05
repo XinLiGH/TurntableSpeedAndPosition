@@ -15,19 +15,20 @@
 表1：陀螺的比例因子 <br>
 
 比例因子 | 速率 | 一圈 | 两圈 | 三圈
+------- | ----------------- | ----------------- | ----------------- | -----------------
 10deg/s | 1.002444509045226 | 1.002487512861111 | 1.002376826416666 | 1.002447856916665
 30deg/s | 1.002438845771145 | 1.002671148430556 | 1.002595940025000 | 1.002456014518519
 60deg/s | 1.001625969169719 | 1.001920025875000 | 1.001831266708334 | 1.001775962453703
 90deg/s | 1.000332211464577 | 1.000885678875000 | 1.000633222270834 | 1.000538447876852
 120deg/s | 0.999612448910081 | 1.000171160833334 | 0.999966452971528 | 0.999821007324074
 
-![](https://github.com/XinLiGitHub/TurntableSpeedAndPosition/raw/master/Software/untitled.bmp) <br>
-
 图1：陀螺的比例因子与圈数的关系 <br>
 
-![](https://github.com/XinLiGitHub/TurntableSpeedAndPosition/raw/master/Software/untitled1.bmp) <br>
+![](https://github.com/XinLiGitHub/TurntableSpeedAndPosition/raw/master/Software/untitled.bmp) <br>
 
 图2：陀螺的比例因子与速率的关系 <br>
+
+![](https://github.com/XinLiGitHub/TurntableSpeedAndPosition/raw/master/Software/untitled1.bmp) <br>
 
 ### 测试结论
 
